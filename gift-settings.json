@@ -1,0 +1,110 @@
+{
+  "ignore_unmapped": true,
+  "likes": {
+    "enabled": true,
+    "per_likes": 200,
+    "speed_pct": 2
+  },
+  "slots": [
+    {
+      "label": "Hiz %2",
+      "ball_count": 1,
+      "fx": "boost",
+      "gift": {
+        "name": "Rose",
+        "coins": 1,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/eba3a9bb85c33e017f3648eaf88d7189~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "Hiz %100",
+      "ball_count": 20,
+      "fx": "boost",
+      "gift": {
+        "name": "Perfume",
+        "coins": 20,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/20b8f61246c7b6032777bb81bf4ee055~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "Hiz %200",
+      "ball_count": 100,
+      "fx": "boost",
+      "gift": {
+        "name": "Cap",
+        "coins": 99,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/6c2ab2da19249ea570a2ece5e3377f04~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "Son hiz",
+      "ball_count": 1,
+      "fx": "boost_max",
+      "gift": {
+        "name": "Corgi",
+        "coins": 299,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/148eef0884fdb12058d1c6897d1e02b9~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "Kalkan 10sn",
+      "ball_count": 1,
+      "fx": "shield",
+      "gift": {
+        "name": "Rosa",
+        "coins": 10,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/eb77ead5c3abb6da6034d3cf6cfeb438~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "TikTok",
+      "ball_count": 1,
+      "fx": "tail",
+      "gift": {
+        "name": "TikTok",
+        "coins": 1,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/802a21ae29f9fae5abe3693de9f874bd~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "x1 Top",
+      "ball_count": 1,
+      "fx": "",
+      "gift": {
+        "name": "GG",
+        "coins": 1,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/3f02fa9594bd1495ff4e8aa5ae265eef~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "2x Buyuk top",
+      "ball_count": 2,
+      "fx": "big",
+      "gift": {
+        "name": "Finger Heart",
+        "coins": 5,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/a4c4dc437fd3a6632aba149769491f49.png~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "x30 Top",
+      "ball_count": 30,
+      "fx": "",
+      "gift": {
+        "name": "Doughnut",
+        "coins": 30,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/4e7ad6bdf0a1d860c538f38026d4e812~tplv-obj.webp"
+      }
+    },
+    {
+      "label": "Confetti",
+      "ball_count": 100,
+      "fx": "",
+      "gift": {
+        "name": "Confetti",
+        "coins": 100,
+        "image": "https://p16-webcast.tiktokcdn.com/img/maliva/webcast-va/cb4e11b3834e149f08e1cdcc93870b26~tplv-obj.webp"
+      }
+    }
+  ]
+}
